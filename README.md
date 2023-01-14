@@ -268,9 +268,8 @@ x x x x x x x
 
 [AWS Blog: 企业微信、钉钉接收 Amazon CloudWatch 告警](https://aws.amazon.com/cn/blogs/china/enterprise-wechat-and-dingtalk-receiving-amazon-cloudwatch-alarms/)
 
-[AWS Doc: 使用 AWS Organizations 和 AWS Secrets Manager 自动大规模轮换 IAM 用户访问密钥]([使用 AWS Organizations 和 AWS Secrets Manager 自动大规模轮换 IAM 用户访问密钥 - AWS Prescriptive Guidance (amazon.com)](https://docs.aws.amazon.com/zh_cn/prescriptive-guidance/latest/patterns/automatically-rotate-iam-user-access-keys-at-scale-with-aws-organizations-and-aws-secrets-manager.html))
+[AWS Doc: 使用 AWS Organizations 和 AWS Secrets Manager 自动大规模轮换 IAM 用户访问密钥](https://docs.aws.amazon.com/zh_cn/prescriptive-guidance/latest/patterns/automatically-rotate-iam-user-access-keys-at-scale-with-aws-organizations-and-aws-secrets-manager.html)
 
-[Boto3 Docs: IAM examples-List a user's access keys]([Managing IAM access keys — Boto3 Docs 1.26.48 documentation (amazonaws.com)](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/iam-example-managing-access-keys.html#list-a-user-s-access-keys))
+[Boto3 Docs: IAM examples-List a user's access keys](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/iam-example-managing-access-keys.html#list-a-user-s-access-keys)
 
-[Boto3 Docs: STS-get_caller_identity()]([STS — Boto3 Docs 1.26.49 documentation (amazonaws.com)](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sts.html#STS.Client.get_caller_identity))
-
+[Boto3 Docs: STS-get_caller_identity()](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sts.html#STS.Client.get_caller_identity)
